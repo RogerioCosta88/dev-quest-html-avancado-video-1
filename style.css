@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #DC153D;
+}
+
+h2 {
+    color: #1338BE;
+}
+
+p {
+    font-size: 25px;
+    padding: 10px;
+}
